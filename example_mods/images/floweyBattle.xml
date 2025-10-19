@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flowey.png">
+    <SubTexture name="nice0000" x="0" y="0" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="nice0001" x="42" y="0" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="side0000" x="0" y="44" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="side0001" x="42" y="44" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="sideum0000" x="0" y="88" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="sideum0001" x="42" y="88" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="sassy0000" x="0" y="132" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="sassy0001" x="42" y="132" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="shock0000" x="0" y="176" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="shock0001" x="42" y="176" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="pissed0000" x="0" y="264" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="pissed0001" x="42" y="264" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="evil0000" x="0" y="308" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="evil0001" x="42" y="308" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="grin0000" x="0" y="352" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="grin0001" x="42" y="352" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="laugh0000" x="0" y="396" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="laugh0001" x="42" y="396" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="idle0000" x="0" y="440" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+    <SubTexture name="idle0001" x="42" y="440" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44"/>
+
+    <SubTexture name="leave0000" x="0" y="484" width="42" height="49" frameX="0" frameY="0" frameWidth="42" frameHeight="49"/>
+    <SubTexture name="leave0001" x="42" y="484" width="42" height="49" frameX="0" frameY="0" frameWidth="42" frameHeight="49"/>
+    <SubTexture name="leave0002" x="0" y="533" width="42" height="49" frameX="0" frameY="0" frameWidth="42" frameHeight="49"/>
+    <SubTexture name="leave0003" x="42" y="533" width="42" height="49" frameX="0" frameY="0" frameWidth="42" frameHeight="49"/>
+    <SubTexture name="leave0004" x="0" y="582" width="42" height="49" frameX="0" frameY="0" frameWidth="42" frameHeight="49"/>
+    <SubTexture name="leave0005" x="42" y="582" width="42" height="49" frameX="0" frameY="0" frameWidth="42" frameHeight="49"/>
+    <SubTexture name="leave0006" x="0" y="631" width="42" height="49" frameX="0" frameY="0" frameWidth="42" frameHeight="49"/>
+</TextureAtlas>

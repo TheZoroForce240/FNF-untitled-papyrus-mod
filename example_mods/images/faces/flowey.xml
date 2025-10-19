@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flowey.png">
+<SubTexture name="flowey0000" x="0" y="0" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44" />
+<SubTexture name="flowey0001" x="42" y="0" width="42" height="44" frameX="0" frameY="0" frameWidth="42" frameHeight="44" />
+</TextureAtlas>

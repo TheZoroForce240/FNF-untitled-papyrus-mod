@@ -1,0 +1,6 @@
+{
+    "name": "Mic",
+    "type": "weapon",
+    "atk": 8,
+    "desc": "A generic microphone that can be thrown and pulled back with its long, stretchy cord."
+}

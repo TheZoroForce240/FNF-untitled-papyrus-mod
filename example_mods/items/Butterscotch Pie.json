@@ -1,0 +1,7 @@
+{
+    "name": "ButtsPie",
+    "type": "heal",
+    "heal": 99999,
+    "desc": "Butterscotch-cinnamon pie, one slice.",
+    "useText": "* You ate the Butterscotch Pie."
+}

@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Bonetrousle", "", [180, 20, 20]],
+		["Megalovania", "", [180, 20, 20]],
+		["Your Best Friend", "", [180, 20, 20]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "bt",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

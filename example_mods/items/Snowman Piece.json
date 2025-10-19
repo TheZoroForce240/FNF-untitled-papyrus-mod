@@ -1,0 +1,7 @@
+{
+    "name": "SnowPiece",
+    "type": "heal",
+    "heal": 45,
+    "desc": "Please take this to the ends of the earth.",
+    "useText": "* You ate the Snowman Piece."
+}

@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["reality-check-through-the-skull", "", [180, 20, 20]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "rctts",
+	"startUnlocked": true,
+	"difficulties": "hard",
+
+	"hideStoryMode": true,
+	"hideFreeplay": true
+}

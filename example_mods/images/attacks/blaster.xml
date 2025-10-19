@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blaster.png">
+<SubTexture name="blaster idle0000" x="78" y="57" width="42" height="57" frameX="0" frameY="0" frameWidth="42" frameHeight="57" />
+<SubTexture name="blaster shoot0000" x="78" y="57" width="42" height="57" frameX="0" frameY="0" frameWidth="42" frameHeight="57" />
+<SubTexture name="blaster shoot0001" x="38" y="57" width="40" height="57" frameX="0" frameY="0" frameWidth="40" frameHeight="57" />
+<SubTexture name="blaster shoot0002" x="0" y="57" width="38" height="57" frameX="0" frameY="0" frameWidth="38" frameHeight="57" />
+<SubTexture name="blaster shoot0003" x="86" y="0" width="43" height="57" frameX="0" frameY="0" frameWidth="43" frameHeight="57" />
+<SubTexture name="blaster shoot0004" x="43" y="0" width="43" height="57" frameX="0" frameY="0" frameWidth="43" frameHeight="57" />
+<SubTexture name="blaster shoot0005" x="0" y="0" width="43" height="57" frameX="0" frameY="0" frameWidth="43" frameHeight="57" />
+</TextureAtlas>

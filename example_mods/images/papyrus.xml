@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="papyrus.png">
+    <SubTexture name="idle0000" x="0" y="0" width="74" height="104" frameX="0" frameY="0" frameWidth="74" frameHeight="104"/>
+    <SubTexture name="hurt0000" x="74" y="0" width="74" height="104" frameX="0" frameY="0" frameWidth="74" frameHeight="104"/>
+</TextureAtlas>

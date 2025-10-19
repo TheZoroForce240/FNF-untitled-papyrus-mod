@@ -1,0 +1,7 @@
+{
+    "name": "NiceCream",
+    "type": "heal",
+    "heal": 15,
+    "desc": "Instead of a joke, the wrapper says something nice.",
+    "useText": "* You eat the Nice Cream."
+}

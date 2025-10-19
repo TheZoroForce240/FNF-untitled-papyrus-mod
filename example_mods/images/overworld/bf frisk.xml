@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf frisk.png">
+    <SubTexture name="downIdle0000" x="0" y="0" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="down0000" x="20" y="0" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="down0001" x="40" y="0" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="down0002" x="60" y="0" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="down0003" x="40" y="0" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+
+    <SubTexture name="upIdle0000" x="0" y="30" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="up0000" x="20" y="30" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="up0001" x="40" y="30" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="up0002" x="60" y="30" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="up0003" x="40" y="30" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+
+    <SubTexture name="leftIdle0000" x="0" y="60" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="left0000" x="20" y="60" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="left0001" x="40" y="60" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="left0002" x="60" y="60" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+
+    <SubTexture name="rightIdle0000" x="0" y="90" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="right0000" x="20" y="90" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="right0001" x="40" y="90" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+    <SubTexture name="right0002" x="60" y="90" width="20" height="30" frameX="0" frameY="0" frameWidth="20" frameHeight="30"/>
+</TextureAtlas>

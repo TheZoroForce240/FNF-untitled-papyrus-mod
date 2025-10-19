@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flowey.png">
+    <SubTexture name="downIdle0000" x="0" y="0" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="talk0000" x="0" y="0" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="talk0001" x="25" y="0" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="exit0000" x="0" y="25" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="exit0001" x="25" y="25" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="exit0002" x="50" y="25" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="exit0003" x="75" y="25" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="exit0004" x="100" y="25" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+
+    <SubTexture name="appear0000" x="100" y="25" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="appear0001" x="75" y="25" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="appear0002" x="50" y="25" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="appear0003" x="25" y="25" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="appear0004" x="0" y="25" width="25" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+</TextureAtlas>
